@@ -30,4 +30,4 @@ urlpatterns = [
     path('api/trip/', include('core.urls', 'trip',)),
 ]
 
-# start from single trip
+# start from single trip, test account
